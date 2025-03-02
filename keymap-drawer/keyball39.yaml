@@ -21,7 +21,7 @@ layers:
   - T
   - N
   - S
-  - {t: ;, s: ':'}
+  - {t: ;, h: '$$mdi:apple-keyboard-shift$$', s: ':'}
   - Q
   - J
   - K
@@ -31,15 +31,15 @@ layers:
   - W
   - V
   - Z
-  - $$mdi:apple-keyboard-control$$
+  - $$mdi:keyboard-esc$$
   - LANG4
   - $$mdi:apple-keyboard-command$$
-  - {t: '$$mdi:keyboard-esc$$', h: SNIPE}
+  - {t: '$$mdi:apple-keyboard-control$$', h: SNIPE}
   - {t: '$$mdi:keyboard-space$$', h: MOUSE}
   - {t: Alt+`, h: SCROLL, s: Alt+~}
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - {t: '$$mdi:backspace$$', h: SYM}
-  - $$mdi:apple-keyboard-shift$$
+  - {t: '$$mdi:backspace$$', type: backspace}
+  - {t: '-', h: '$$mdi:apple-keyboard-shift$$', s: _}
   NUM:
   - '1'
   - '2'
@@ -118,7 +118,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   FUN:
   - F1
