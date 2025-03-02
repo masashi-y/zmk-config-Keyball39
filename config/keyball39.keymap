@@ -65,7 +65,7 @@
         default_layer {
             label = "DVRK";
             bindings = <
-&kp SQT        &kp COMMA     &kp PERIOD  &kp P         &kp T                                    &kp F            &kp G  &kp C  &kp R  &kp L
+&kp SQT        &kp COMMA     &kp PERIOD  &kp P         &kp Y                                    &kp F            &kp G  &kp C  &kp R  &kp L
 &kp A          &kp O         &kp E       &kp U         &kp I                                    &kp D            &kp H  &kp T  &kp N  &kp S
 &kp SEMICOLON  &kp Q         &kp J       &kp K         &kp X                                    &kp B            &kp M  &kp W  &kp V  &kp Z
 &kp LCTRL      &kp LEFT_WIN  &kp LALT    &lt 6 ESCAPE  &lt 4 SPACE  &lt 5 LA(GRAVE)  &kp ENTER  &lt 2 BACKSPACE                       &kp RSHFT
