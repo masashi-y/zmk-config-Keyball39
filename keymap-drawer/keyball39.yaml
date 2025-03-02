@@ -24,7 +24,7 @@ layers:
   - {t: ;, s: ':'}
   - Q
   - J
-  - V
+  - K
   - X
   - B
   - M
@@ -211,7 +211,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - KP 0
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
