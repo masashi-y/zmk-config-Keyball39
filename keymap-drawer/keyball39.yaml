@@ -1,35 +1,36 @@
+layout: {zmk_keyboard: keyball39}
 layers:
-  QWRT:
-  - Q
-  - W
-  - E
-  - R
-  - T
-  - Y
-  - U
-  - I
-  - O
+  DVRK:
+  - {t: '''', s: '"'}
+  - {t: ',', s: <}
+  - .
   - P
-  - A
-  - S
-  - D
+  - T
   - F
   - G
-  - H
-  - J
-  - K
-  - L
-  - {t: ;, s: ':'}
-  - Z
-  - X
   - C
-  - V
-  - B
+  - R
+  - L
+  - A
+  - O
+  - E
+  - U
+  - I
+  - D
+  - H
+  - T
   - N
+  - S
+  - {t: ;, s: ':'}
+  - Q
+  - J
+  - V
+  - X
+  - B
   - M
-  - {t: ',', s: <}
-  - {t: ., s: '>'}
-  - {t: /, s: '?'}
+  - W
+  - V
+  - Z
   - $$mdi:apple-keyboard-control$$
   - LEFT WIN
   - $$mdi:apple-keyboard-option$$
