@@ -6,3 +6,7 @@ Case: *[delock](https://github.com/delock)* <br>
 Firmware: *[Amos698](https://github.com/Amos698)* <br>
 
 <img src="keymap-drawer/keyball39.svg" >
+
+## Useful links
+
+- [Keymap Editor](https://nickcoutsos.github.io/keymap-editor/)
