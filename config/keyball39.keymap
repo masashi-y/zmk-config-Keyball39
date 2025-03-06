@@ -67,8 +67,8 @@
             bindings = <
 &kp TAB              &kp COMMA   &kp PERIOD        &kp P        &kp Y                                          &kp F          &kp G  &kp C  &kp R  &kp L
 &kp A                &kp O       &kp E             &kp U        &kp I                                          &kp D          &kp H  &kp T  &kp N  &kp S
-&mt LEFT_SHIFT SEMI  &kp Q       &kp J             &kp K        &kp X                                          &kp B          &kp M  &kp W  &kp V  &kp Z
-&kp LEFT_CONTROL     &kp ESCAPE  &kp LEFT_COMMAND  &lt 2 SPACE  &lt 4 LANGUAGE_2  &lt 5 LANGUAGE_1  &kp ENTER  &kp BACKSPACE                       &mt RSHFT MINUS
+&mt LEFT_SHIFT SEMI  &kp Q       &kp J             &kp K        &kp X                                          &kp B          &kp M  &kp W  &kp V  &mt RIGHT_SHIFT Z
+&kp LEFT_CONTROL     &kp ESCAPE  &kp LEFT_COMMAND  &lt 2 SPACE  &lt 4 LANGUAGE_2  &lt 5 LANGUAGE_1  &kp ENTER  &kp BACKSPACE                       &kp MINUS
             >;
         };
 
